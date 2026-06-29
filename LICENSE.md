@@ -1,4 +1,4 @@
-# 
+# Open Source birdeye sniper bot scripts for Mac OS | Turbo birdeye sniper bot scripts for PC Windows. Featuring alert notifications and sandwich detection — optimized for maximum performance on every platform.
 
 
 
